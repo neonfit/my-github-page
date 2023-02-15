@@ -16,5 +16,3 @@
 ## Мои контакты
 
 Меня можно найти в [Discord](discord.com) по логину _neonfit#8673_.
-
-theme: architect
